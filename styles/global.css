@@ -15,6 +15,12 @@ html {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+@font-face {
+  font-family: "SCDream3";
+  font-weight: 200;
+  src: url("/fonts/SCDream3.otf") format("truetype");
+}
+
 body {
   overflow-x: hidden;
 }

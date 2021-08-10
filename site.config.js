@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'yjun1806',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'https://yjun1806.vercel.app/',
+  author: 'yjun1806',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'yjun1806',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -47,5 +45,7 @@ module.exports = {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: null
+  pageUrlOverrides: null,
+
+  fontFamily: 'SCDream3'
 }
